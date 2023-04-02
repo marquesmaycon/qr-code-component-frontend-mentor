@@ -15,8 +15,8 @@ body {
 	justify-content: center;
 }
 .area {
-	max-width: 18rem;
 	background-color: white;
+	max-width: 20rem;
 	padding: 1rem;
 	border-radius: 15px;
 	text-align: center;
